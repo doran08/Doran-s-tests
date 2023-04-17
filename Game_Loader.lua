@@ -1,5 +1,5 @@
 
-local url = "https://raw.githubusercontent.com/Doran342545345/Scriptshowcaeses/main/games54"
+local url = "https://github.com/doran08/Doran-s-tests/tree/63c50fc2453ae3cb00d0134d64a4aa0d33d62c2b/Scripts"
 
 local games = {
 
